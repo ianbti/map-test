@@ -1,0 +1,47 @@
+[
+	{
+		"shapeid": "0",
+		"partid": "",
+		"x": "-110.972563",
+		"y": "52.30533",
+		"FAC_ID": "ABBT0040017",
+		"FAC_NAME": "Morgan, Provost 3-32",
+		"OP_BA_ID": "A5KY"
+	},
+	{
+		"shapeid": "1",
+		"partid": "",
+		"x": "-110.807666",
+		"y": "53.833768",
+		"FAC_ID": "ABBT0040181",
+		"FAC_NAME": "Lindbergh '2-15-56-6w4'",
+		"OP_BA_ID": "0HE9"
+	},
+	{
+		"shapeid": "2",
+		"partid": "",
+		"x": "-110.314264",
+		"y": "52.458429",
+		"FAC_ID": "ABBT0040187",
+		"FAC_NAME": "Chauvco \"Provost\" 12-24",
+		"OP_BA_ID": "A6N8"
+	},
+	{
+		"shapeid": "3",
+		"partid": "",
+		"x": "-114.499664",
+		"y": "52.569281",
+		"FAC_ID": "ABBT0040188",
+		"FAC_NAME": "Pci Gilby 04-34",
+		"OP_BA_ID": "A68P"
+	},
+	{
+		"shapeid": "4",
+		"partid": "",
+		"x": "-114.119991",
+		"y": "55.147035",
+		"FAC_ID": "ABBT0040303",
+		"FAC_NAME": "Canoxy Decrene 6-17",
+		"OP_BA_ID": "0HE9"
+	}
+]
